@@ -1,0 +1,70 @@
+.logo {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 70px;
+    height: auto;
+    border-radius: 50%;
+
+}
+.usuario{
+    margin-top: 20px;
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    top: 1px;
+    left: 95px;
+    width: 100px;
+ 
+}
+.menu{
+    margin-top: 20px;
+    font-size: 15px;
+    color: white;
+    position: absolute;
+    top: 5px;
+    right: 100px;
+    width: 200px;
+ 
+}
+.medio {
+    height: auto;
+    top: auto;
+    object-fit: cover;
+    right: 0;
+    left: -10px;
+    margin: 0px;
+    position: 2elative;
+    width: 215%;
+    }
+.titulo{
+    margin-top: 20px;
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    top: 320px;
+    left: 10px;
+    width: 800px;
+    font-family:Arial, Helvetica, sans-serif;
+ 
+}
+.texto{
+    margin-top: 20px;
+    font-size: 15px;
+    color: white;
+    position: absolute;
+    top: 430px;
+    left: 10px;
+    width: 800px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.a{
+    display: flex;
+    align-items: center;
+}
+.pri {
+    top: 420px;
+    left: 700px;
+    right: 300px;
+    width: 10px;
+}
